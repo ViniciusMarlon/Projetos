@@ -10,6 +10,8 @@ Digite a potência do aparelho (Watts): 100
 
 Digite o tempo médio de uso diário em horas: 8
 
+Resultado:
+
 O consumo mensal do aparelho Ventilador é de 24.0 kWh.  
 
 O aparelho Ventilador custa aproximadamente R$ 18.00 por mês em energia.
