@@ -33,12 +33,4 @@ O objetivo principal é praticar:
 
 ## 🛠️ Tecnologia Utilizada
 
-- **Linguagem:** Python 3
-- **Ambiente:** VS Code
-- **Controle de versão:** Git e GitHub
-
----
-
-## 📊 Exemplo de Execução
-
-**Entrada:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
