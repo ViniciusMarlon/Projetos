@@ -60,3 +60,8 @@ Ao final, o programa exibe a quantidade total de respostas **EXCELENTE** e **RUI
 - **Ambiente:** VS Code
 - **Controle de Versão:** Git e GitHub
 - **Bibliotecas:** Nenhuma (apenas recursos nativos do Python)
+
+## 📸 Prints do Programa
+
+### Exemplo 1: Execução da Pesquisa
+![Print 1](Captura de tela 2026-09-23 173216)
