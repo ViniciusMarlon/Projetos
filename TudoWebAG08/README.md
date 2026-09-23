@@ -10,7 +10,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto foi desenvolvido durante a **Agenda 7** do curso Técnico em Desenvolvimento de Sistemas. O objetivo é criar um programa em Python que realize uma **pesquisa de satisfação** com **50 clientes** da empresa de marketing **TudoWeb**.
+Este projeto foi desenvolvido durante a **Agenda 08** do curso Técnico em Desenvolvimento de Sistemas. O objetivo é criar um programa em Python que realize uma **pesquisa de satisfação** com **50 clientes** da empresa de marketing **TudoWeb**.
 
 O programa coleta o **nome**, a **idade** e a **opinião** de cada entrevistado sobre o atendimento prestado, classificando as respostas em três categorias:
 
@@ -61,7 +61,7 @@ Ao final, o programa exibe a quantidade total de respostas **EXCELENTE** e **RUI
 - **Controle de Versão:** Git e GitHub
 - **Bibliotecas:** Nenhuma (apenas recursos nativos do Python)
 
-## 📸 Prints do Programa
+## 📸 Print do Programa
 
 ### Exemplo 1: Execução da Pesquisa
-![Print 1](Captura de tela 2026-09-23 173216)
+![Imprimir 1](print1.png)
